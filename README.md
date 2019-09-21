@@ -15,4 +15,4 @@ This method can substantially improve performance on MNIST and FMNIST, as measur
 
 ![image](https://github.com/kellinpelrine/MarginalGAN/blob/master/MNIST_FMNIST_results.JPG)
 
-There is more information in the included report on part 1 of the project and proposal for part 2. 
+There is more information included in the report on part 1 of the project and the proposal for part 2. 
