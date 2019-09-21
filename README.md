@@ -11,4 +11,8 @@ https://github.com/tsc2017/Frechet-Inception-Distance \
 https://github.com/tsc2017/Inception-Score \
 https://www.tensorflow.org/tutorials/images/deep_cnn
 
-There is more information in the included report and proposal. 
+This method can substantially improve performance on MNIST and FMNIST, as measured by CAFD (with similar IS and FID). See the figure below:
+
+![image](https://github.com/kellinpelrine/MarginalGAN/blob/master/MNIST_FMNIST_results.JPG)
+
+There is more information in the included report on part 1 of the project and proposal for part 2. 
