@@ -1,5 +1,5 @@
 # MarginalGAN
-Research on improving GAN performance by separating classes. Work in progress.
+Research on improving GAN performance by separating classes. Work in progress. Many files not yet uploaded.
 
 Author: Kellin Pelrine. I extensively use others' work, often with modification, including the following.
 https://github.com/B1ueber2y/CAFD \
