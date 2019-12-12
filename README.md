@@ -1,5 +1,5 @@
 # MarginalGAN
-Research on improving GAN performance by separating classes. Work in progress. Many files not yet uploaded.
+Research on improving GAN performance by separating classes. Work in progress. Most files not yet uploaded.
 There is more information included in the report on part 1 of the project and the proposal for part 2. 
 
 Author: Kellin Pelrine. I extensively use others' work, often with modification, including the following.
